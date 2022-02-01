@@ -191,7 +191,6 @@ h2{
 
 @media only screen and (max-width:500px) {
     /* Handy */
-    .index, .index2 {
-      width: 100%;
-    }
+    .navbar {
+	 width: 80%;
 }

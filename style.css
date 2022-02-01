@@ -194,4 +194,8 @@ h2{
     .navbar {
 	position: fixed;
         text-align: center;
+	    
+	.index {
+        width: 80%;
+    }
 }

@@ -192,5 +192,5 @@ h2{
 @media only screen and (max-width:500px) {
     /* Handy */
     .navbar {
-	 width: 100%;
+	 position: fixed;
 }

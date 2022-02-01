@@ -191,11 +191,13 @@ h2{
 
 @media only screen and (max-width:500px) {
     /* Handy */
-    .navbar {
-	position: fixed;
-        text-align: center;
-	    
-	.index {
-        width: 80%;
-    }
+    .index {
+       width: max-content;
+   }
+
+   .navbar {
+       width: 60%;
+       font-size: small;
+       margin: 2vw;
+   }
 }
